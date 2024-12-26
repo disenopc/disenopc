@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1Ut-1oxSIlocbopPuAwXcW5SwDq_1mB6b/view"  />
-</div>
+![alt text](Img1.png)
 
 ###
 
@@ -71,3 +69,5 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+
+![alt text](Img1.png)
