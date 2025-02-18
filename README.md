@@ -1,4 +1,4 @@
-![alt text](Img1.png)
+![Banner linkedin nutrición y psicología comida color rosa con fotos medio círculo (5)](https://github.com/user-attachments/assets/4b41b6fc-cfa4-42d2-8138-ba4cfe7f0a06)
 
 ###
 
