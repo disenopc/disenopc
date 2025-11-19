@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Patricia Capitanelli from Argentina. Business Administration graduate with a focus on digital business. Passionate about web development (HTML, CSS, JavaScript) and data analysis (SQL).<br><br>- 🔭 I am currently working as a freelancer on programming and data projects.<br>- 📚 I'm currently learning Python.<br>- ⚡ In my free time I run as a lifestyle.</p>
+<p align="left">I'm Patricia Capitanelli from Argentina. Business Administration graduate with a focus on digital business. Passionate about web development (HTML, CSS, JavaScript) and data analysis (SQL).<br><br>- 🔭 I am currently working as a freelancer on programming and data projects.<br>- 📚 I'm learning Python.<br>- ⚡ In my free time I run as a lifestyle.</p>
 
 ###
 
